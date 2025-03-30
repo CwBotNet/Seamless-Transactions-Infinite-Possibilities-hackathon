@@ -1,4 +1,4 @@
-# 🚀 PYUSD Subscription Payments
+# 🚀 PYUSD Subscription Payments ott
 
 ## 📌 Overview
 A **smart contract-based subscription system** where users auto-pay for services using PYUSD.
