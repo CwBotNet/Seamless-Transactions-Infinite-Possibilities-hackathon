@@ -1,0 +1,15 @@
+# Node.js
+node_modules/
+.env
+package-lock.json
+
+# Hardhat
+cache/
+artifacts/
+
+# Docker
+docker-compose.override.yml
+
+# React
+.next/
+build/

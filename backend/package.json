@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "PYUSD backend",
+  "main": "index.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "nodemon index.ts"
+  },
+  "author": "raj sahani",
+  "license": "ISC"
+}
